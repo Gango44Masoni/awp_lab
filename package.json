@@ -1,0 +1,20 @@
+{
+  "name": "awp_lab",
+  "version": "1.0.0",
+  "description": "author Erik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gango44Masoni/awp_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gango44Masoni/awp_lab/issues"
+  },
+  "homepage": "https://github.com/Gango44Masoni/awp_lab#readme"
+}
